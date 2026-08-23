@@ -472,5 +472,5 @@ img { max-width: 100%; display: block; }
   .carousel-arrow { width: 34px; height: 34px; }
   .reviews-grid { grid-template-columns: 1fr; }
   .nav, .section-split, .contact-section, .footer, .reviews-section { padding-left: 24px; padding-right: 24px; }
-  .wrap { padding: 0 24px; }
+  .wrap { padding-left: 24px; padding-right: 24px; }
 }
