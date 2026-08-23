@@ -471,6 +471,7 @@ img { max-width: 100%; display: block; }
   .carousel { aspect-ratio: 4 / 3; }
   .carousel-arrow { width: 34px; height: 34px; }
   .reviews-grid { grid-template-columns: 1fr; }
+  .section-split { gap: 40px; }
   .nav, .section-split, .contact-section, .footer, .reviews-section { padding-left: 24px; padding-right: 24px; }
   .wrap { padding-left: 24px; padding-right: 24px; }
 }
